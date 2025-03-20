@@ -32,6 +32,8 @@ A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare'
 
 ## Setup Steps
 
+[![Deploy to Workers](https://github.com/user-attachments/assets/acd67bb6-de46-42ed-9e31-e458583262d6)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/nevikashah/saas-admin-template)
+
 1. Install dependencies:
 
 ```bash
