@@ -13,7 +13,7 @@ A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare'
 - 👥 Customer management
 - 💳 Subscription tracking
 - 🚀 Deploy to Cloudflare Workers
-- 📦 Powered by Cloudflare D1 database
+- 📦 Powered by Cloudflare D1 database & Workflows
 - ✨ Clean, responsive interface
 - 🔍 Data validation with Zod
 
