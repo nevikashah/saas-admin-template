@@ -24,9 +24,6 @@ A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare'
 - Deployment: [Cloudflare Workers](https://workers.cloudflare.com)
 - Validation: [Zod](https://github.com/colinhacks/zod)
 
-> [!IMPORTANT]
-> When using C3 to create this project, select "no" when it asks if you want to deploy. You need to follow this project's [setup steps](https://github.com/cloudflare/templates/tree/main/d1-template#setup-steps) before deploying.
-
 <!-- dash-content-end -->
 
 ## Setup Steps
