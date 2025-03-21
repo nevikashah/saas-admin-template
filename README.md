@@ -20,7 +20,6 @@ A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare'
 ## Tech Stack
 
 - Frontend: [Astro](https://astro.build)
-- UI Components: [Shadcn UI](https://ui.shadcn.com)
 - Database: [Cloudflare D1](https://developers.cloudflare.com/d1)
 - Deployment: [Cloudflare Workers](https://workers.cloudflare.com)
 - Validation: [Zod](https://github.com/colinhacks/zod)
